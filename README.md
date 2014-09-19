@@ -18,7 +18,7 @@ How to run symbolizeCrash.command script in terminal:
 source symbolizeCrash.command <crash log file> <dSYM file> > output.txt
 
 ――――――――――――――――――――――――――――――――――――
-Symbolize one line from server crash log file
+Symbolize One Line
 
 What you need to run the program:
 
@@ -70,7 +70,7 @@ iPadの標準クラッシュファイルからシンボライズ方法：
 ターミナルで「source symbolizeCrash.command <crash log file> <dSYM file> > <output.txt>」これを書いてください。
 
 ――――――――――――――――――――――――――――――――――――
-サーバーからのクラッシュファイルからシンボライズ方法：
+(一つの行だけをシンボライズ）クラッシュファイルからシンボライズ方法：
 
 必要なファイル：
 
