@@ -78,6 +78,7 @@ iPadの標準クラッシュファイルからシンボライズ方法：
 例えば: appname.app.dSYM/Contents/Resources/DWARF <―― このフォルダのなか「appname」というファイルがあります。それをmemoryAddr.pyと同じ所にコピペしてください。
 
 2) 「memoryAddr.py」というpythonスクリプトファイル
+
 3) サーバーからのクラッシュファイル
 
 「memoryAddr.py」実行する方法：
